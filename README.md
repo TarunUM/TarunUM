@@ -1,5 +1,9 @@
 # Hi there 👋
 
+🔭 I’m looking to collaborate on open source projects
+🤝 I’m looking for new opportunities and open for any feedback
+🌱 I’m currently improving my skill on Backend, Frontend Frameworks and DS
+
 <!--
 **TarunUM/TarunUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
