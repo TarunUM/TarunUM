@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" align="right">
+<img src="https://media3.giphy.com/media/ZAGE7xXDkUtSVFIV4l/giphy.webp?cid=6c09b95267fbe9369dc9bae42a589a1ea3c57342a13380ae&rid=giphy.webp&ct=g" width="300" align="right">
 
 I'm a full stack developer and a machine learning enthusiast. I love creating web applications that are fast, responsive and user-friendly. I also enjoy exploring new technologies and solving challenging problems with data and algorithms.
 
