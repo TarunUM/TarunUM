@@ -83,6 +83,6 @@ I'm a full stack developer and a machine learning enthusiast. I love creating we
 ## My GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=TarunUM&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TarunUM&hide=css,html&theme=tokyonight">
 </p>
