@@ -64,20 +64,33 @@ I'm a full stack developer and a machine learning enthusiast. I love creating we
 
 ## Tools I use
 
+Here is some code that you can use to change the icons to normal and make the width of 30. I have used some icons from https://github.com/devicons/devicon and https://github.com/simple-icons/simple-icons.
+
+# My GitHub Profile
+
+## Tools I use
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.svg" alt="angular" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.nodejs.svg" alt="nodejs" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.express.svg" alt="express" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.spring.svg" alt="spring" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.sql.svg" alt="sql" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.mongodb.svg" alt="mongodb" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.postman.svg" alt="postman" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.java.svg" alt="java" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.python.svg" alt="python" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.javascript.svg" alt="javascript" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.typescript.svg" alt="typescript" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.docker.svg" alt="docker" height="25" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.git.svg" alt="git" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="postman" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="30" height="30" style="vertical-align:top; margin:4px">
+  <img src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg alt=git width=30 height=30 style=vertical-align:top; margin:4px>
+</p>
+
+## My GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&hide=css,html&theme=tokyonight">
 </p>
 
 ## My GitHub Stats
