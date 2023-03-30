@@ -62,18 +62,27 @@ I'm a full stack developer and a machine learning enthusiast. I love creating we
 - I like to play FPS Games in my free time
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
-  <img src=https://www.vectorlogo.zone/logos/docker/docker-icon.svg alt=Docker width=40 height=40>
-  <img src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg alt=Git width=40 height=40>
+## Tools I use
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.svg" alt="angular" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.nodejs.svg" alt="nodejs" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.express.svg" alt="express" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.spring.svg" alt="spring" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.sql.svg" alt="sql" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.mongodb.svg" alt="mongodb" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.postman.svg" alt="postman" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.java.svg" alt="java" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.python.svg" alt="python" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.javascript.svg" alt="javascript" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.typescript.svg" alt="typescript" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.docker.svg" alt="docker" height="25" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.technologies.git.svg" alt="git" height="25" style="vertical-align:top; margin:4px">
+</p>
+
+## My GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&hide=css,html&theme=tokyonight">
 </p>
