@@ -52,11 +52,11 @@ I'm a full stack developer and a machine learning enthusiast. I love creating we
 ## 📫 How to reach me ...
 
 <a href="mailto:tarun.8792@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/></a>
-<a href="[your LinkedIn profile URL]"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+<a href="https://www.linkedin.com/mwlite/in/tarunmosalagi"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
 <a href="https://twitter.com/tarun00240781?t=toafDqiDpXigWDLBcBcVdw&s=09"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"/></a>
 
 ## 😄 Fun facts about me ...
 
-- I like to play chess and sudoku in my free time
-- I'm a fan of sci-fi and fantasy books and movies
+- I'm a fan of sci-fi and fantasy movies and I like to read mangas 
 - I enjoy listening to music and podcasts while coding
+- I like to play FPS Games in my free time
