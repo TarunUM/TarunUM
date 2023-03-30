@@ -88,3 +88,10 @@ I'm a full stack developer and a machine learning enthusiast. I love creating we
   <img src = "https://github-readme-stats.vercel.app/api?username=TarunUM&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TarunUM&hide=css,html&theme=tokyonight">
 </p>
+
+## My Repositories
+
+<p align = "center">
+  <a href = "https://github.com/TarunUM/repo1"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=TarunUM&repo=repo1&show_owner=true"></a>
+  <a href = "https://github.com/TarunUM/repo2"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=TarunUM&repo=repo2&show_owner=true"></a>
+</p>
