@@ -92,6 +92,6 @@ I'm a full stack developer and a machine learning enthusiast. I love creating we
 ## My Repositories
 
 <p align = "center">
-  <a href = "https://github.com/TarunUM/repo1"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=TarunUM&repo=NodeJsPractice&show_owner=true"></a>
-  <a href = "https://github.com/TarunUM/repo2"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=TarunUM&repo=Machine_learning&show_owner=true"></a>
+  <a href = "https://github.com/TarunUM/NodeJsPractice"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=TarunUM&repo=NodeJsPractice&show_owner=true"></a>
+  <a href = "https://github.com/TarunUM/Machine_learning"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=TarunUM&repo=Machine_learning&show_owner=true"></a>
 </p>
