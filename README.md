@@ -84,6 +84,11 @@ Here is some code that you can use to change the icons to normal and make the wi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="30" height="30" style="vertical-align:top; margin:4px">
   <img src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg alt=git width=30 height=30 style=vertical-align:top; margin:4px>
+
+
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="vertical-align:top; margin:4px; filter: brightness(200%);">
+  <img src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg alt=git width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
 </p>
 
 ## My GitHub Stats
