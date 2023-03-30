@@ -89,13 +89,6 @@ Here is some code that you can use to change the icons to normal and make the wi
 ## My GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&hide=css,html&theme=tokyonight">
-</p>
-
-## My GitHub Stats
-
-<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=TarunUM&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TarunUM&hide=css,html&theme=tokyonight">
 </p>
