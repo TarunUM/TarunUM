@@ -76,10 +76,12 @@ I'm a full stack developer and a machine learning enthusiast. I love creating we
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
-  <img src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg alt=docker width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
-  <img src=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg alt=git width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg alt=docker width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
 </p>
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 
 ## My GitHub Stats
