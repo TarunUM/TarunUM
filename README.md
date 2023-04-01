@@ -68,9 +68,9 @@ I'm a full stack developer and a machine learning enthusiast. I love creating we
 <p align="left" style="background-color: #222222; padding: 10px; border-radius: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30" style="vertical-align:top; margin:4px; filter: brightness(200%);">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" style="vertical-align:top; margin:4px; filter: brightness(200%);">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express " width="30" height="30" style="vertical-align:top; margin:4px; filter: brightness(200%);">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express " width="30" height="30" style="vertical-align:top; margin:4px; filter: hue-rotate(90deg); ">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="30" height="30" style="vertical-align:top; margin:4px; filter: brightness(200%);">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="30" height="30" style="vertical-align:top; margin:4px; filter: invert(100%);">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="30" height="30" style="vertical-align:top; margin:4px; filter:  brightness(200%);">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30" style="vertical-align:top; margin:4px; filter: brightness(200%);">
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt=postman width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java width=30 height=30 style=vertical-align:top; margin:4px; filter:brightness(200%);>
